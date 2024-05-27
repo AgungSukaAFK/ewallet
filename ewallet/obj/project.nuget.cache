@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aaJ3kzFhVE9/2wSNAhxP+0pkLj70N7XATF5l8BPDYTBFgqWUmuUMSOqoV+WJM4kC6jeaGCa938o8bTH5cKBmzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wisma\\Documents\\00 CODING\\VB .NET\\ewallet\\ewallet\\ewallet.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wisma\\.nuget\\packages\\system.data.odbc\\8.0.0\\system.data.odbc.8.0.0.nupkg.sha512",
+    "C:\\Users\\wisma\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\wisma\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
